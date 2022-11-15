@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on dHb的笔记沙滩</title>
+    <link>https://ahead-of-north.github.io/posts/</link>
+    <description>Recent content in Posts on dHb的笔记沙滩</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Nov 2022 15:27:58 +0800</lastBuildDate><atom:link href="https://ahead-of-north.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deepmd学习</title>
+      <link>https://ahead-of-north.github.io/posts/deepmd%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Sat, 12 Nov 2022 15:27:58 +0800</pubDate>
+      
+      <guid>https://ahead-of-north.github.io/posts/deepmd%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</guid>
+      <description>还在蜂蜜罐里纠缠中。</description>
+    </item>
+    
+  </channel>
+</rss>
