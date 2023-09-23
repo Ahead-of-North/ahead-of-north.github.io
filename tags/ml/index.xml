@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ML on Freeland 4 dHb and Her Friends</title>
+    <link>http://ahead-of-north.github.io/tags/ml/</link>
+    <description>Recent content in ML on Freeland 4 dHb and Her Friends</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Sep 2023 13:23:33 +0800</lastBuildDate><atom:link href="http://ahead-of-north.github.io/tags/ml/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Machine Learning</title>
+      <link>http://ahead-of-north.github.io/post/machinelearning/</link>
+      <pubDate>Sat, 23 Sep 2023 13:23:33 +0800</pubDate>
+      
+      <guid>http://ahead-of-north.github.io/post/machinelearning/</guid>
+      <description>机器学习算法 Linear Regress Logistic Regression</description>
+    </item>
+    
+  </channel>
+</rss>
