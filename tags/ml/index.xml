@@ -9,10 +9,10 @@
     <lastBuildDate>Sat, 08 Jul 2023 13:23:33 +0800</lastBuildDate><atom:link href="http://ahead-of-north.github.io/tags/ml/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Machine Learning</title>
-      <link>http://ahead-of-north.github.io/post/machinelearning/</link>
+      <link>http://ahead-of-north.github.io/post/machine-learning/</link>
       <pubDate>Sat, 08 Jul 2023 13:23:33 +0800</pubDate>
       
-      <guid>http://ahead-of-north.github.io/post/machinelearning/</guid>
+      <guid>http://ahead-of-north.github.io/post/machine-learning/</guid>
       <description>逻辑回归算法 Logistic Regression 优化损失函数的方法——梯</description>
     </item>
     
