@@ -6,14 +6,32 @@
     <description>Recent content in Posts on Freeland 4 dHb and Her Friends</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Sep 2023 13:23:33 +0800</lastBuildDate><atom:link href="http://ahead-of-north.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Oct 2023 23:18:18 +0800</lastBuildDate><atom:link href="http://ahead-of-north.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Explicit Learning of Derivatives with the KREG and pKREG Models</title>
+      <link>http://ahead-of-north.github.io/post/kreg/</link>
+      <pubDate>Sat, 07 Oct 2023 23:18:18 +0800</pubDate>
+      
+      <guid>http://ahead-of-north.github.io/post/kreg/</guid>
+      <description>Explicit Learning of Derivatives with the KREG and pKREG Models 最近开始follow</description>
+    </item>
+    
     <item>
       <title>Machine Learning</title>
       <link>http://ahead-of-north.github.io/post/machinelearning/</link>
-      <pubDate>Sat, 23 Sep 2023 13:23:33 +0800</pubDate>
+      <pubDate>Sat, 08 Jul 2023 13:23:33 +0800</pubDate>
       
       <guid>http://ahead-of-north.github.io/post/machinelearning/</guid>
-      <description>机器学习算法： 线性回归算法 Linear Regression 支持向量机</description>
+      <description>逻辑回归算法 Logistic Regression 优化损失函数的方法——梯</description>
+    </item>
+    
+    <item>
+      <title>Major Course</title>
+      <link>http://ahead-of-north.github.io/post/major-course/</link>
+      <pubDate>Mon, 05 Jun 2023 22:42:23 +0800</pubDate>
+      
+      <guid>http://ahead-of-north.github.io/post/major-course/</guid>
+      <description>Electrodynamics 课本：电动力学（第三版）-郭硕鸿 高等教</description>
     </item>
     
   </channel>
