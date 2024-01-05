@@ -6,7 +6,25 @@
     <description>Recent content in Tags on Freeland 4 dHb and Her Friends</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Jan 2024 11:23:50 +0800</lastBuildDate><atom:link href="http://ahead-of-north.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Jan 2024 12:19:16 +0800</lastBuildDate><atom:link href="http://ahead-of-north.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Movie of the Month</title>
+      <link>http://ahead-of-north.github.io/tags/movie-of-the-month/</link>
+      <pubDate>Fri, 05 Jan 2024 12:19:16 +0800</pubDate>
+      
+      <guid>http://ahead-of-north.github.io/tags/movie-of-the-month/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physics</title>
+      <link>http://ahead-of-north.github.io/tags/physics/</link>
+      <pubDate>Fri, 05 Jan 2024 11:23:50 +0800</pubDate>
+      
+      <guid>http://ahead-of-north.github.io/tags/physics/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Quantum Mechanics</title>
       <link>http://ahead-of-north.github.io/tags/quantum-mechanics/</link>
@@ -22,6 +40,15 @@
       <pubDate>Wed, 13 Dec 2023 20:03:57 +0800</pubDate>
       
       <guid>http://ahead-of-north.github.io/tags/computational-physics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical Algorithm</title>
+      <link>http://ahead-of-north.github.io/tags/numerical-algorithm/</link>
+      <pubDate>Wed, 13 Dec 2023 20:03:57 +0800</pubDate>
+      
+      <guid>http://ahead-of-north.github.io/tags/numerical-algorithm/</guid>
       <description></description>
     </item>
     
@@ -49,15 +76,6 @@
       <pubDate>Sat, 08 Jul 2023 13:23:33 +0800</pubDate>
       
       <guid>http://ahead-of-north.github.io/tags/ml/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Physics</title>
-      <link>http://ahead-of-north.github.io/tags/physics/</link>
-      <pubDate>Mon, 05 Jun 2023 22:42:23 +0800</pubDate>
-      
-      <guid>http://ahead-of-north.github.io/tags/physics/</guid>
       <description></description>
     </item>
     
