@@ -6,15 +6,14 @@
     <description>Recent content in ML on Freeland 4 dHb and Her Friends</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Jul 2023 13:23:33 +0800</lastBuildDate><atom:link href="http://ahead-of-north.github.io/tags/ml/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Jul 2023 13:23:33 +0800</lastBuildDate>
+    <atom:link href="http://ahead-of-north.github.io/tags/ml/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Machine Learning</title>
       <link>http://ahead-of-north.github.io/post/machine-learning/</link>
       <pubDate>Sat, 08 Jul 2023 13:23:33 +0800</pubDate>
-      
       <guid>http://ahead-of-north.github.io/post/machine-learning/</guid>
       <description>逻辑回归算法 Logistic Regression 优化损失函数的方法——梯</description>
     </item>
-    
   </channel>
 </rss>

@@ -6,78 +6,63 @@
     <description>Recent content in Posts on Freeland 4 dHb and Her Friends</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Jan 2024 02:55:43 +0800</lastBuildDate><atom:link href="http://ahead-of-north.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Mar 2024 22:51:52 +0800</lastBuildDate>
+    <atom:link href="http://ahead-of-north.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Create a KREG Model For the 1st Time in Forever</title>
+      <link>http://ahead-of-north.github.io/post/createakregmodelforthe1sttimeinforever/</link>
+      <pubDate>Wed, 13 Mar 2024 22:51:52 +0800</pubDate>
+      <guid>http://ahead-of-north.github.io/post/createakregmodelforthe1sttimeinforever/</guid>
+      <description>CONGRATS ON ME! 今天第一次完成了kreg的模型训练</description>
+    </item>
     <item>
       <title>Find Your Happily Ever After</title>
       <link>http://ahead-of-north.github.io/post/findyourhappilyeverafter/</link>
       <pubDate>Wed, 31 Jan 2024 02:55:43 +0800</pubDate>
-      
       <guid>http://ahead-of-north.github.io/post/findyourhappilyeverafter/</guid>
       <description>Find Your Happily Ever After ——我想大约会是在上海 飞机上舍</description>
     </item>
-    
     <item>
       <title>月会月影日|观人观景情</title>
       <link>http://ahead-of-north.github.io/post/motm/</link>
       <pubDate>Fri, 05 Jan 2024 12:19:16 +0800</pubDate>
-      
       <guid>http://ahead-of-north.github.io/post/motm/</guid>
       <description>2024 Jan</description>
     </item>
-    
     <item>
       <title>Quantum Mechanics</title>
       <link>http://ahead-of-north.github.io/post/quantum-mechanics/</link>
       <pubDate>Fri, 05 Jan 2024 11:23:50 +0800</pubDate>
-      
       <guid>http://ahead-of-north.github.io/post/quantum-mechanics/</guid>
       <description>Quantum Mechanics 5个基本假设 微观粒子的运动状态由波函</description>
     </item>
-    
     <item>
       <title>Interpolation Method</title>
       <link>http://ahead-of-north.github.io/post/interpolation-method/</link>
       <pubDate>Wed, 13 Dec 2023 20:03:57 +0800</pubDate>
-      
       <guid>http://ahead-of-north.github.io/post/interpolation-method/</guid>
       <description>插值方法 Please contact me for more notes on interpolation method ;)</description>
     </item>
-    
     <item>
       <title>Just Like Comedian</title>
       <link>http://ahead-of-north.github.io/post/justlikecomedian/</link>
       <pubDate>Sun, 15 Oct 2023 14:53:00 +0800</pubDate>
-      
       <guid>http://ahead-of-north.github.io/post/justlikecomedian/</guid>
       <description>那些Comedian一样的朋友们 他也是朋</description>
     </item>
-    
-    <item>
-      <title>Explicit Learning of Derivatives with the KREG and pKREG Models</title>
-      <link>http://ahead-of-north.github.io/post/kreg/</link>
-      <pubDate>Sat, 07 Oct 2023 23:18:18 +0800</pubDate>
-      
-      <guid>http://ahead-of-north.github.io/post/kreg/</guid>
-      <description>Explicit Learning of Derivatives with the KREG and pKREG Models 最近开始follow</description>
-    </item>
-    
     <item>
       <title>Machine Learning</title>
       <link>http://ahead-of-north.github.io/post/machine-learning/</link>
       <pubDate>Sat, 08 Jul 2023 13:23:33 +0800</pubDate>
-      
       <guid>http://ahead-of-north.github.io/post/machine-learning/</guid>
       <description>逻辑回归算法 Logistic Regression 优化损失函数的方法——梯</description>
     </item>
-    
     <item>
       <title>Major Course</title>
       <link>http://ahead-of-north.github.io/post/major-course/</link>
       <pubDate>Mon, 05 Jun 2023 22:42:23 +0800</pubDate>
-      
       <guid>http://ahead-of-north.github.io/post/major-course/</guid>
       <description>Electrodynamics 电动力学（第三版）-郭硕鸿 高等教育出版</description>
     </item>
-    
   </channel>
 </rss>
